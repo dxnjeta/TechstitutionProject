@@ -2,12 +2,6 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Lato:300,400");
 
-/*
-	Interphase by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 /* Basic */
 html {
 	scroll-behavior: smooth;
@@ -932,8 +926,6 @@ html {
 		position: absolute  !important;
 		top: 0; right: 0; bottom: 0; left: 0 !important;
 		display: flex !important;
-		/* align-items: center !important; */
-		/* justify-content: center !important; */
 	}
 
 	video {
@@ -943,7 +935,7 @@ html {
 	  }
 
 	.overlay-desc h1 {
-		margin: 2.5em 1em 0em 1em;
+		margin: 2em 1em 0em 1em;
 		font-family: 'Bebas Neue', cursive !important;
 		font-size: 8em;
 		font-weight: 500;

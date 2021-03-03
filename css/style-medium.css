@@ -22,6 +22,23 @@
 		display: none;
 	}
 
+	.overlay-desc h1 {
+		margin: 1.6em 1.5em 0 1.5em !important;
+		font-size: 5em !important;
+	}
+
+	#paragraf {
+		color: white;
+		font-weight: 500;
+		padding-left: 5px !important;
+		letter-spacing: normal;
+		font-size: 25px !important;
+		font-family: 'Roboto', sans-serif;
+		line-height: 40px;
+		margin: 0 !important;
+	}
+
+
 /* Banner */
 
 	/* #banner {
